@@ -1,0 +1,23 @@
+body {
+  background-color: black;
+}
+
+.main_content {
+  color: rgb(252, 250, 250);
+}
+
+#_xl {
+  font-size: 100px;
+}
+
+#_l {
+  font-size: 50px;
+}
+
+#_m {
+  font-size: 30px;
+}
+
+#_update {
+  color: rgb(0, 0, 0);
+}
